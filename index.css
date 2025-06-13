@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: indigo;
+    color: white;
+    display: flex;
+}
+nav>button{
+    border: none;
+    background-color: transparent;
+    color: white;
+    padding: 10px 20px;
+}
